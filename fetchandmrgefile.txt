@@ -1,0 +1,2 @@
+this is fetch and merge file.
+testing
